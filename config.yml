@@ -1,0 +1,9 @@
+title: My Jekyll Website
+description: A simple Jekyll site hosted on GitHub Pages
+theme: minima
+author: Your Name
+
+# GitHub Pages settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
