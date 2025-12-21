@@ -5,16 +5,13 @@ title: Home
 
 # Welcome 👋
 
-This is my Jekyll website hosted on **GitHub Pages**.
+Welcome to my personal blog :)
 
-- Fast
-- Free
-- Static
-
-Enjoy!
+I am currently pursuing my Masters in Data Science at UChicago. Previously I was working with JPMorganChase as software engineer. I graduated in 2024 with a bachelor of technology in computer engineering and a bachelor of science in programming and data science. 
 
 ## Explore
 
 - [Work](/work/)
 - [Projects](/projects/)
 - [Interests](/interests/)
+- [Resume](/assests/resume.pdf/)
