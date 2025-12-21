@@ -1,7 +1,10 @@
-title: My Jekyll Website
-description: A simple Jekyll site hosted on GitHub Pages
+title: Personal Blog
+description: gargikale02@gmail.com
 theme: minima
-author: Your Name
+author: Gargi Kale
+
+baseurl: ""
+url: ""
 
 # GitHub Pages settings
 markdown: kramdown
