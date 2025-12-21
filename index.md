@@ -14,4 +14,4 @@ I am currently pursuing my Masters in Data Science at UChicago. Previously I was
 - [Work](/work/)
 - [Projects](/projects/)
 - [Interests](/interests/)
-- [Resume](/assests/resume.pdf/)
+- [Resume](/assests/resume.pdf)
