@@ -4,11 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
-## Research & Professional Work
+## Projects
 
-### Research Assistant
+### AI Agents for Science
 - Studied bias in large language models
 - Focus on root causes and mitigation
 
-### Teaching
+### Statistical analysis and forecasting of Stock prices
 - Assisted in ML and NLP courses
+
+### Marathi Paraphrase generation 
+- blah blah 
+
+### Modern Application Development 
+- blah blah

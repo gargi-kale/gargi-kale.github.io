@@ -10,5 +10,5 @@ permalink: /work/
 - Studied bias in large language models
 - Focus on root causes and mitigation
 
-### Teaching
+### JPMorgan
 - Assisted in ML and NLP courses

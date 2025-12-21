@@ -4,11 +4,22 @@ title: Interests
 permalink: /interests/
 ---
 
-## Research & Professional Work
+## A summary of my hobbies
 
-### Research Assistant
-- Studied bias in large language models
-- Focus on root causes and mitigation
+### Books read in 2025
+- Rock paper scissors 
+- Whole numbers and half truths
+- Sorrow and Bliss
+- The forest of Enchantments
+- Yellowface
+- Tomorrow and Tomorrow and Tomorrow
+- A room of one's own
+- Good Material 
+- Searches: Selfhood in the Digital Age
+- The Vegetarian ( hoping to finish it before 2026 )
 
-### Teaching
-- Assisted in ML and NLP courses
+### Current favourite music and artits 
+- Lola Young
+- PinkPantheress
+- Charli XCX
+- ROLEMODEL
