@@ -1,0 +1,43 @@
+title: Gargi Kale
+description: Portfolio, projects, and writing by Gargi Kale.
+author:
+  name: Gargi Kale
+  email: gargikale02@gmail.com
+
+url: "https://gargi-kale.github.io"
+baseurl: ""
+
+theme: minima
+
+minima:
+  social_links:
+    github: gargi-kale
+    linkedin: https://www.linkedin.com/in/gargikale/  # TODO: replace with your LinkedIn handle
+    email: gargikale02@gmail.com
+
+# Pages shown in the header nav (order matters)
+header_pages:
+  - work.md
+  - projects.md
+  - interests.md
+  - blog.md
+
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - README.md

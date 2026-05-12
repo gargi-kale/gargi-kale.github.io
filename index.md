@@ -1,20 +1,13 @@
 ---
 layout: home
 title: Home
+list_title: Latest posts
 ---
 
-# Welcome 👋
+# Hi, I'm Gargi 👋
 
-This is my Jekyll website hosted on **GitHub Pages**.
+I'm interested in machine learning, NLP, and how language models pick up bias from their training data.
 
-- Fast
-- Free
-- Static
+This site is where I keep my [work](/work/), [projects](/projects/), [interests](/interests/), and the occasional [blog post](/blog/).
 
-Enjoy!
-
-## Explore
-
-- [Work](/work/)
-- [Projects](/projects/)
-- [Interests](/interests/)
+[Resume](/assets/resume.pdf){:target="_blank"} · [Email me](mailto:gargikale02@gmail.com) · [GitHub](https://github.com/gargi-kale){:target="_blank"}

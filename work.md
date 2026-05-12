@@ -4,11 +4,20 @@ title: Work
 permalink: /work/
 ---
 
-## Research & Professional Work
+## Research
 
-### Research Assistant
-- Studied bias in large language models
-- Focus on root causes and mitigation
+**Research Assistant** — Bias in Large Language Models
+*Dates*
 
-### Teaching
-- Assisted in ML and NLP courses
+- Studying how language models absorb bias from their training data
+- Investigating root causes and evaluating mitigation strategies
+
+## Teaching
+
+**Teaching Assistant** — Machine Learning & NLP
+*Dates*
+
+- Helped run labs and grade assignments
+- Held office hours and answered student questions on coursework
+
+*Want the full version? [View my resume](/assets/resume.pdf){:target="_blank"}.*

@@ -1,0 +1,20 @@
+# Each project renders as a card on /projects/. Add, remove, or reorder freely.
+- title: Bias in Large Language Models
+  description: >
+    Research on how LLMs absorb and reproduce social bias from training data,
+    with a focus on identifying root causes and evaluating mitigations.
+  url: https://github.com/gargi-kale
+  tags: [Research, NLP, Fairness]
+
+- title: Portfolio Site
+  description: >
+    This site — built with Jekyll and the minima theme, hosted on GitHub Pages.
+  url: https://github.com/gargi-kale/gargi-kale.github.io
+  tags: [Jekyll, GitHub Pages]
+
+# Template for new entries:
+# - title:
+#   description: >
+#     Two or three sentences.
+#   url:
+#   tags: []
