@@ -23,4 +23,4 @@ Key points from abstract -
 --- I think these points are more like questions i am asking claude at this point ---
 
 7. Isn't insight library just providing curated context to the LLM ? and its being compared with llms having no context 
-8. Does the curated context need to be generated using federation over text, how does it compare with just giving one llm all the problems and then inputting the same prompts ? Is parallelisation a feature mentioned in the paper or something else ? 
+8. Does the curated context need to be generated using federation over text, how does it compare with just giving one llm all the problems and then inputting the same prompts ? 
