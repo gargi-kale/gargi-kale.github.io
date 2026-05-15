@@ -19,6 +19,8 @@ Key points from abstract -
 4. Claude explained federated learning and about averaging weights across models, seems too simple to work actually. 
 5. I was confused about task-level coordination and knowledge-level aggregation and this is what claude explained - "A useful contrast: task-level coordination is like a committee solving a case. Knowledge-level aggregation is like writing the textbook the next committee will read." The textbook would be about a certain domain right, otherwise it would be like having a separate reasoning model. 
 6. The model reflects on whether the reasoning process contains reusable techniques and what key skills can be extracted, this is done by prompting the question and the solution for analysis. Is the model smart enough to answer with multiple methods to reach the same answer ? is this relevant ? 
+
 --- I think these points are more like questions i am asking claude at this point ---
+
 7. Isn't insight library just providing curated context to the LLM ? and its being compared with llms having no context 
 8. Does the curated context need to be generated using federation over text, how does it compare with just giving one llm all the problems and then inputting the same prompts ? Is parallelisation a feature mentioned in the paper or something else ? 
