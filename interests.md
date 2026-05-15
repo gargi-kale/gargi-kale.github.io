@@ -18,4 +18,5 @@ permalink: /interests/
 ## Outside of computing
 
 - Reading
-- *(add hobbies here)*
+- Running 
+- Dancing

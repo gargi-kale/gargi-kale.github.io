@@ -1,16 +1,30 @@
 # Each project renders as a card on /projects/. Add, remove, or reorder freely.
-- title: Bias in Large Language Models
+- title: Multi-Agent Framework for Generating Executable Research Papers
   description: >
-    Research on how LLMs absorb and reproduce social bias from training data,
-    with a focus on identifying root causes and evaluating mitigations.
+    A domain-agnostic autonomous multi-agent system built on the OpenAI API that
+    orchestrates planning, code generation, and execution to turn research
+    questions into fully executable scientific papers. Includes automated
+    environment construction, sandboxed execution, logging, and a reproducibility
+    fault-injection pipeline. Generated and evaluated 30 synthetic papers across
+    domains, outperforming a single-LLM baseline (24.1 vs 14.1 avg. score).
   url: https://github.com/gargi-kale
-  tags: [Research, NLP, Fairness]
+  tags: [LLMs, Multi-Agent, OpenAI, Research]
 
-- title: Portfolio Site
+- title: Marathi Paraphrase Generation
   description: >
-    This site — built with Jekyll and the minima theme, hosted on GitHub Pages.
-  url: https://github.com/gargi-kale/gargi-kale.github.io
-  tags: [Jekyll, GitHub Pages]
+    Analysed 4 LLMs for generating Marathi paraphrases. Curated a dataset of
+    Marathi phrases and their paraphrases, and evaluated model performance using
+    BLEU, METEOR, cosine similarity, and Levenshtein distance.
+  url: https://www.kaggle.com/gargikale
+  tags: [NLP, LLMs, Low-Resource Languages]
+
+- title: Spotify Playlist Recommendation
+  description: >
+    Built as part of the Microsoft Engage Mentorship program — a KNN-based
+    machine learning model that predicts the most suitable playlist for a song,
+    paired with a Django frontend integrated with the model.
+  url: https://github.com/gargi-kale
+  tags: [Machine Learning, KNN, Django]
 
 # Template for new entries:
 # - title:
