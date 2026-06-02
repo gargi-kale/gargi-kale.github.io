@@ -150,6 +150,134 @@
   border-bottom: none;
 }
 
+/* ---------- Prompts NLP page (prompts.md) ---------- */
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 0.9rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.stat-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 0.9rem 0.6rem;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  background: #fafbfc;
+}
+
+.stat-num {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #2563eb;
+  line-height: 1.1;
+}
+
+.stat-label {
+  font-size: 0.75rem;
+  color: #6b7280;
+  margin-top: 0.25rem;
+}
+
+.muted {
+  color: #6b7280;
+  font-size: 0.9rem;
+}
+
+.word-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.7rem;
+  line-height: 1.4;
+  margin: 1.25rem 0;
+}
+
+.word-cloud span { font-weight: 600; }
+.word-cloud .wc-hi  { color: #2563eb; }
+.word-cloud .wc-mid { color: #475569; }
+.word-cloud .wc-lo  { color: #94a3b8; font-weight: 500; }
+
+.theme-list { margin: 1.25rem 0; }
+
+.theme-row { margin-bottom: 1.1rem; }
+
+.theme-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.35rem;
+}
+
+.theme-name { font-weight: 600; }
+.theme-share { color: #6b7280; font-size: 0.85rem; }
+
+.theme-bar {
+  height: 8px;
+  border-radius: 999px;
+  background: #eef1f4;
+  overflow: hidden;
+}
+
+.theme-bar > span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #2563eb, #60a5fa);
+}
+
+.theme-terms { margin: 0.55rem 0 0; }
+
+.phrase-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 1.25rem 0;
+}
+
+.trend-chart {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 180px;
+  margin: 1.25rem 0 0;
+  padding-bottom: 1.4rem;
+  position: relative;
+}
+
+.trend-col {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  height: 100%;
+  min-width: 0;
+}
+
+.trend-bar {
+  width: 70%;
+  min-height: 2px;
+  border-radius: 3px 3px 0 0;
+  background: linear-gradient(180deg, #60a5fa, #2563eb);
+  transition: opacity 0.12s ease;
+}
+
+.trend-col:hover .trend-bar { opacity: 0.7; }
+
+.trend-label {
+  position: absolute;
+  bottom: 0;
+  font-size: 0.6rem;
+  color: #6b7280;
+  white-space: nowrap;
+  transform: translateY(0.2rem);
+}
+
 /* ---------- Dark mode (respects OS preference) ---------- */
 
 @media (prefers-color-scheme: dark) {
@@ -207,6 +335,31 @@
 
   .post-list > li {
     border-bottom-color: #30363d;
+  }
+
+  /* Prompts page in dark mode */
+  .stat-card {
+    background: #1f242c;
+    border-color: #30363d;
+  }
+
+  .stat-num { color: #79c0ff; }
+  .stat-label,
+  .muted,
+  .theme-share,
+  .trend-label { color: #8b949e; }
+
+  .word-cloud .wc-hi  { color: #79c0ff; }
+  .word-cloud .wc-mid { color: #adbac7; }
+  .word-cloud .wc-lo  { color: #6b7480; }
+
+  .theme-bar { background: #2a313c; }
+  .theme-bar > span {
+    background: linear-gradient(90deg, #1f6feb, #79c0ff);
+  }
+
+  .trend-bar {
+    background: linear-gradient(180deg, #79c0ff, #1f6feb);
   }
 
   /* Footer in dark mode */

@@ -20,6 +20,7 @@ header_pages:
   - work.md
   - projects.md
   - interests.md
+  - prompts.md
   - blog.md
 
 markdown: kramdown

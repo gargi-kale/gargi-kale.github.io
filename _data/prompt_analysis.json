@@ -1,0 +1,536 @@
+{
+  "generated_at": "2026-06-01",
+  "stats": {
+    "conversations": 64,
+    "prompts": 272,
+    "words": 4074,
+    "avg_words_per_prompt": 15.0,
+    "unique_terms": 1489,
+    "date_range": "May 3 \u2013 May 28, 2026"
+  },
+  "cloud": [
+    {
+      "text": "data",
+      "weight": 54
+    },
+    {
+      "text": "bias",
+      "weight": 30
+    },
+    {
+      "text": "terms",
+      "weight": 28
+    },
+    {
+      "text": "model",
+      "weight": 22
+    },
+    {
+      "text": "reading",
+      "weight": 21
+    },
+    {
+      "text": "google",
+      "weight": 21
+    },
+    {
+      "text": "project",
+      "weight": 21
+    },
+    {
+      "text": "glove",
+      "weight": 20
+    },
+    {
+      "text": "implemented",
+      "weight": 19
+    },
+    {
+      "text": "sentences",
+      "weight": 19
+    },
+    {
+      "text": "models",
+      "weight": 19
+    },
+    {
+      "text": "embeddings",
+      "weight": 19
+    },
+    {
+      "text": "weat",
+      "weight": 19
+    },
+    {
+      "text": "social",
+      "weight": 18
+    },
+    {
+      "text": "test",
+      "weight": 17
+    },
+    {
+      "text": "foundation",
+      "weight": 17
+    },
+    {
+      "text": "words",
+      "weight": 16
+    },
+    {
+      "text": "gender",
+      "weight": 16
+    },
+    {
+      "text": "list",
+      "weight": 15
+    },
+    {
+      "text": "pipeline",
+      "weight": 15
+    },
+    {
+      "text": "names",
+      "weight": 15
+    },
+    {
+      "text": "tests",
+      "weight": 14
+    },
+    {
+      "text": "user",
+      "weight": 14
+    },
+    {
+      "text": "research",
+      "weight": 13
+    },
+    {
+      "text": "work",
+      "weight": 13
+    },
+    {
+      "text": "table",
+      "weight": 13
+    },
+    {
+      "text": "female",
+      "weight": 13
+    },
+    {
+      "text": "shows",
+      "weight": 13
+    },
+    {
+      "text": "media",
+      "weight": 13
+    },
+    {
+      "text": "include",
+      "weight": 12
+    },
+    {
+      "text": "python",
+      "weight": 12
+    },
+    {
+      "text": "point",
+      "weight": 12
+    },
+    {
+      "text": "missing",
+      "weight": 12
+    },
+    {
+      "text": "male",
+      "weight": 12
+    },
+    {
+      "text": "dataset",
+      "weight": 12
+    },
+    {
+      "text": "upload",
+      "weight": 12
+    },
+    {
+      "text": "git",
+      "weight": 12
+    },
+    {
+      "text": "content",
+      "weight": 12
+    },
+    {
+      "text": "slide",
+      "weight": 11
+    },
+    {
+      "text": "news",
+      "weight": 11
+    },
+    {
+      "text": "request",
+      "weight": 11
+    },
+    {
+      "text": "response",
+      "weight": 11
+    },
+    {
+      "text": "following",
+      "weight": 11
+    },
+    {
+      "text": "non",
+      "weight": 11
+    },
+    {
+      "text": "arts",
+      "weight": 11
+    }
+  ],
+  "bigrams": [
+    {
+      "text": "male female",
+      "weight": 12
+    },
+    {
+      "text": "glove wikipedia",
+      "weight": 10
+    },
+    {
+      "text": "glove twitter",
+      "weight": 10
+    },
+    {
+      "text": "words complete",
+      "weight": 9
+    },
+    {
+      "text": "complete sentences",
+      "weight": 9
+    },
+    {
+      "text": "sentences approximately",
+      "weight": 9
+    },
+    {
+      "text": "approximately sentences",
+      "weight": 9
+    },
+    {
+      "text": "pleasant unpleasant",
+      "weight": 9
+    },
+    {
+      "text": "python google",
+      "weight": 9
+    },
+    {
+      "text": "implemented weat",
+      "weight": 8
+    },
+    {
+      "text": "female terms",
+      "weight": 8
+    },
+    {
+      "text": "arts terms",
+      "weight": 8
+    },
+    {
+      "text": "names pleasant",
+      "weight": 8
+    },
+    {
+      "text": "unpleasant terms",
+      "weight": 8
+    },
+    {
+      "text": "git pull",
+      "weight": 8
+    }
+  ],
+  "tfidf": [
+    {
+      "term": "data",
+      "score": 4.09
+    },
+    {
+      "term": "operation",
+      "score": 2.19
+    },
+    {
+      "term": "upsert",
+      "score": 2.19
+    },
+    {
+      "term": "upsert operation",
+      "score": 2.19
+    },
+    {
+      "term": "slide",
+      "score": 1.63
+    },
+    {
+      "term": "paper",
+      "score": 1.62
+    },
+    {
+      "term": "summarise",
+      "score": 1.57
+    },
+    {
+      "term": "mentioned",
+      "score": 1.57
+    },
+    {
+      "term": "reading",
+      "score": 1.5
+    },
+    {
+      "term": "values",
+      "score": 1.49
+    },
+    {
+      "term": "project",
+      "score": 1.49
+    },
+    {
+      "term": "model",
+      "score": 1.46
+    },
+    {
+      "term": "models",
+      "score": 1.43
+    },
+    {
+      "term": "work",
+      "score": 1.42
+    },
+    {
+      "term": "formats",
+      "score": 1.42
+    },
+    {
+      "term": "missing",
+      "score": 1.42
+    },
+    {
+      "term": "open",
+      "score": 1.31
+    },
+    {
+      "term": "deletion",
+      "score": 1.25
+    },
+    {
+      "term": "world",
+      "score": 1.24
+    },
+    {
+      "term": "table",
+      "score": 1.24
+    },
+    {
+      "term": "concepts",
+      "score": 1.21
+    },
+    {
+      "term": "privacy",
+      "score": 1.19
+    },
+    {
+      "term": "slides",
+      "score": 1.18
+    },
+    {
+      "term": "important",
+      "score": 1.17
+    },
+    {
+      "term": "mean",
+      "score": 1.16
+    }
+  ],
+  "themes": [
+    {
+      "label": "Data Engineering",
+      "terms": [
+        "data",
+        "pipeline",
+        "table",
+        "missing",
+        "values",
+        "deletion"
+      ],
+      "count": 139,
+      "share": 22.7
+    },
+    {
+      "label": "NLP & Language Models",
+      "terms": [
+        "glove",
+        "sentences",
+        "words",
+        "word",
+        "tokens",
+        "sentence"
+      ],
+      "count": 132,
+      "share": 21.6
+    },
+    {
+      "label": "Research & Papers",
+      "terms": [
+        "reading",
+        "research",
+        "slide",
+        "concepts",
+        "paper",
+        "slides"
+      ],
+      "count": 120,
+      "share": 19.6
+    },
+    {
+      "label": "Machine Learning & Modeling",
+      "terms": [
+        "model",
+        "models",
+        "embeddings",
+        "dataset",
+        "learning",
+        "robust"
+      ],
+      "count": 116,
+      "share": 19.0
+    },
+    {
+      "label": "Bias & Fairness",
+      "terms": [
+        "bias",
+        "social",
+        "gender",
+        "female",
+        "male",
+        "responsible"
+      ],
+      "count": 105,
+      "share": 17.2
+    }
+  ],
+  "trend": [
+    {
+      "day": "2026-05-03",
+      "label": "May 3",
+      "prompts": 8
+    },
+    {
+      "day": "2026-05-04",
+      "label": "May 4",
+      "prompts": 15
+    },
+    {
+      "day": "2026-05-05",
+      "label": "May 5",
+      "prompts": 4
+    },
+    {
+      "day": "2026-05-06",
+      "label": "May 6",
+      "prompts": 15
+    },
+    {
+      "day": "2026-05-08",
+      "label": "May 8",
+      "prompts": 32
+    },
+    {
+      "day": "2026-05-09",
+      "label": "May 9",
+      "prompts": 13
+    },
+    {
+      "day": "2026-05-10",
+      "label": "May 10",
+      "prompts": 1
+    },
+    {
+      "day": "2026-05-11",
+      "label": "May 11",
+      "prompts": 21
+    },
+    {
+      "day": "2026-05-12",
+      "label": "May 12",
+      "prompts": 2
+    },
+    {
+      "day": "2026-05-13",
+      "label": "May 13",
+      "prompts": 10
+    },
+    {
+      "day": "2026-05-14",
+      "label": "May 14",
+      "prompts": 15
+    },
+    {
+      "day": "2026-05-15",
+      "label": "May 15",
+      "prompts": 11
+    },
+    {
+      "day": "2026-05-16",
+      "label": "May 16",
+      "prompts": 2
+    },
+    {
+      "day": "2026-05-19",
+      "label": "May 19",
+      "prompts": 8
+    },
+    {
+      "day": "2026-05-20",
+      "label": "May 20",
+      "prompts": 10
+    },
+    {
+      "day": "2026-05-21",
+      "label": "May 21",
+      "prompts": 13
+    },
+    {
+      "day": "2026-05-22",
+      "label": "May 22",
+      "prompts": 2
+    },
+    {
+      "day": "2026-05-24",
+      "label": "May 24",
+      "prompts": 9
+    },
+    {
+      "day": "2026-05-25",
+      "label": "May 25",
+      "prompts": 17
+    },
+    {
+      "day": "2026-05-26",
+      "label": "May 26",
+      "prompts": 25
+    },
+    {
+      "day": "2026-05-27",
+      "label": "May 27",
+      "prompts": 11
+    },
+    {
+      "day": "2026-05-28",
+      "label": "May 28",
+      "prompts": 28
+    }
+  ]
+}
